@@ -36,6 +36,6 @@ function sum($array, $level = 0) {
 }
 
 $result = sum($array);
-echo '<pre>';
+
 print_r($result);
-echo '</pre>';
+
